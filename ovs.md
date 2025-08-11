@@ -179,7 +179,7 @@
 * [9.1 OVS日志系统](#91-ovs日志系统)
     * [9.1.1 日志位置与级别](#911-日志位置与级别)
     * [9.1.2 `ovs-appctl vlog/set`：动态调整日志级别](#912-ovs-appctl-vlogset动态调整日志级别)
-* [9.2 `ovs-appctl`：OVS的瑞士军刀](#92-ovs-appctl-ovs的瑞士军刀)
+* [9.2 `ovs-appctl`：OVS的瑞士军刀](#92-ovs-appctlovs的瑞士军刀)
     * [9.2.1 `dpctl/dump-flows`：查看内核数据通路流表](#921-dpctldump-flows查看内核数据通路流表)
     * [9.2.2 `ofctl/trace`：流表路径追踪](#922-ofctltrace流表路径追踪)
     * [9.2.3 `vconn/info`：查看连接信息](#923-vconninfo查看连接信息)
